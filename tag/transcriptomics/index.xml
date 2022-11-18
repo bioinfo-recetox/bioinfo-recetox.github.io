@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transcriptomics | IB2: Integrative Bioinformatics and Biostatistics</title>
-    <link>http://bioinfo.recetox.muni.cz/tag/transcriptomics/</link>
-      <atom:link href="http://bioinfo.recetox.muni.cz/tag/transcriptomics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioinfo-recetox.github.io/tag/transcriptomics/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/tag/transcriptomics/index.xml" rel="self" type="application/rss+xml" />
     <description>transcriptomics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>transcriptomics</title>
-      <link>http://bioinfo.recetox.muni.cz/tag/transcriptomics/</link>
+      <link>https://bioinfo-recetox.github.io/tag/transcriptomics/</link>
     </image>
     
     <item>
       <title>Importance ot tumor sampling in transcriptomics-based risk stratification</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2022-esmo_gi/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2022-esmo_gi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of tumour morphology landscape on molecular signatures</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2022-eacr/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2022-eacr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular portraits of major morphological components of colon tumors</title>
-      <link>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</link>
+      <link>https://bioinfo-recetox.github.io/project/gacr2019_vp/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/gacr2019_vp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
@@ -68,17 +68,17 @@ systems.&lt;/p&gt;
     
     <item>
       <title>Consensus molecular subtypes of morphological regions on colorectal tumors</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2021-esmo_gi/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2021-esmo_gi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An explorative analysis of ABCG2/TOP-1 mRNA expression as a biomarker test for FOLFIRI treatment in stage III colon cancer patients: results from retrospective analyses of the PETACC-3 trial</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2020-cancers/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2020-cancers/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2020-cancers/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2020-cancers/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

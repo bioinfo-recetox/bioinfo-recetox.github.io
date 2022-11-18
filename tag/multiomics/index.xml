@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>multiomics | IB2: Integrative Bioinformatics and Biostatistics</title>
-    <link>http://bioinfo.recetox.muni.cz/tag/multiomics/</link>
-      <atom:link href="http://bioinfo.recetox.muni.cz/tag/multiomics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioinfo-recetox.github.io/tag/multiomics/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/tag/multiomics/index.xml" rel="self" type="application/rss+xml" />
     <description>multiomics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>multiomics</title>
-      <link>http://bioinfo.recetox.muni.cz/tag/multiomics/</link>
+      <link>https://bioinfo-recetox.github.io/tag/multiomics/</link>
     </image>
     
     <item>
       <title>Using empirical biological knowledge to infer regulatory networks from multi-omics data</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2022-bmc_bioinformatics/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2022-bmc_bioinformatics/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2022-bmc_bioinformatics/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2022-bmc_bioinformatics/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>ONCOBIOME: Gut OncoMicrobiome Signatures associated with cancer incidence, prognosis and prediction of treatment response</title>
-      <link>http://bioinfo.recetox.muni.cz/project/oncobiome/</link>
+      <link>https://bioinfo-recetox.github.io/project/oncobiome/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/oncobiome/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/oncobiome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: EU-H2020 (Grant agreement ID: 825410); Principal investigator for MUNI: Eva Budinska&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;(from the project&amp;rsquo;s &lt;a href=&#34;https://www.oncobiome.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official website&lt;/a&gt;)&lt;/p&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>Clinical implications of intra-tumour heterogeneity in colon cancer</title>
-      <link>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</link>
+      <link>https://bioinfo-recetox.github.io/project/azv2019_vp/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/azv2019_vp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: AZV (NV19-03-00298); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;

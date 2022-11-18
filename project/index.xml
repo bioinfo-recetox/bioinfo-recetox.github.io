@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | IB2: Integrative Bioinformatics and Biostatistics</title>
-    <link>http://bioinfo.recetox.muni.cz/project/</link>
-      <atom:link href="http://bioinfo.recetox.muni.cz/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioinfo-recetox.github.io/project/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://bioinfo.recetox.muni.cz/project/</link>
+      <link>https://bioinfo-recetox.github.io/project/</link>
     </image>
     
     <item>
       <title>Molecular portraits of major morphological components of colon tumors</title>
-      <link>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</link>
+      <link>https://bioinfo-recetox.github.io/project/gacr2019_vp/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/gacr2019_vp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
@@ -52,9 +52,9 @@ systems.&lt;/p&gt;
     
     <item>
       <title>ONCOBIOME: Gut OncoMicrobiome Signatures associated with cancer incidence, prognosis and prediction of treatment response</title>
-      <link>http://bioinfo.recetox.muni.cz/project/oncobiome/</link>
+      <link>https://bioinfo-recetox.github.io/project/oncobiome/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/oncobiome/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/oncobiome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: EU-H2020 (Grant agreement ID: 825410); Principal investigator for MUNI: Eva Budinska&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;(from the project&amp;rsquo;s &lt;a href=&#34;https://www.oncobiome.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official website&lt;/a&gt;)&lt;/p&gt;
@@ -75,9 +75,9 @@ systems.&lt;/p&gt;
     
     <item>
       <title>Clinical implications of intra-tumour heterogeneity in colon cancer</title>
-      <link>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</link>
+      <link>https://bioinfo-recetox.github.io/project/azv2019_vp/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/azv2019_vp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: AZV (NV19-03-00298); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
@@ -107,9 +107,9 @@ morphological characteristics, thus a pathologist could relatively easily identi
     
     <item>
       <title>Colobiome: Tumour-adjacent microbiome and immune profile of tumour in the context of heterogeneity and aggressivness of colorectal cancer</title>
-      <link>http://bioinfo.recetox.muni.cz/project/azv2016_eb/</link>
+      <link>https://bioinfo-recetox.github.io/project/azv2016_eb/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/azv2016_eb/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/azv2016_eb/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -117,9 +117,9 @@ morphological characteristics, thus a pathologist could relatively easily identi
     
     <item>
       <title>A Phase Ia/b study of MEK1/2 inhibitor PD-0325901 or MEK-162 with cMET inhibitor PF-02341066 in RASMT and RASWT (with aberrant c-MET) Colorectal Cancer Patients.</title>
-      <link>http://bioinfo.recetox.muni.cz/project/mercuric/</link>
+      <link>https://bioinfo-recetox.github.io/project/mercuric/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/mercuric/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/mercuric/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: EU-FP7 (Grant agreement ID: 602901); Principal investigator for MUNI: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;p&gt;Colorectal cancer (CRC) is the 3rd most common cancer in Europe, and with approximately 200,000 deaths per year, it remains the 2nd most common cause of cancer death. More than half of all CRC patients develop distant metastases and have 5-year overall survival (OS) of less than 5% because of ineffective treatments. Increased understanding of cancer biology, coupled with the implementation of “omics”-based approaches, has revealed that cancer must be considered a heterogeneous disease. Historically, “one-size-fits-all” approaches have been standard practice in CRC treatment, but with the increased understanding of the molecular/genetic heterogeneity of CRC, it is clear that novel treatments must be developed and tested in selected subgroups to maximize the benefit of these new developments. MErCuRIC is a multicentre phase Ia/b clinical trial which will assess a novel therapeutic strategy (combined treatment of a MEK inhibitor PD-0325901 or MEK-162 with a MET inhibitor PF-02341066) to combat metastasis, improve survival and change current clinical practice for CRC patients with RAS mutant (MT) and RAS wild type (WT) (with aberrant c-MET) tumours. The consortium will go beyond the current state-of-the-art by (i) employing a novel treatment strategy targeting the biology of the disease and by (ii) using next generation sequencing (NGS) and ‘xenopatients’ to identify CRC patient subgroups who will maximally benefit from this novel treatment strategy.&lt;/p&gt;

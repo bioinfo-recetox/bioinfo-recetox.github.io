@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>microbiome | IB2: Integrative Bioinformatics and Biostatistics</title>
-    <link>http://bioinfo.recetox.muni.cz/tag/microbiome/</link>
-      <atom:link href="http://bioinfo.recetox.muni.cz/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioinfo-recetox.github.io/tag/microbiome/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/tag/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>microbiome</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>microbiome</title>
-      <link>http://bioinfo.recetox.muni.cz/tag/microbiome/</link>
+      <link>https://bioinfo-recetox.github.io/tag/microbiome/</link>
     </image>
     
     <item>
       <title>Oncobiome General Assembly meeting</title>
-      <link>http://bioinfo.recetox.muni.cz/post/22-10-15-oncobiome/</link>
+      <link>https://bioinfo-recetox.github.io/post/22-10-15-oncobiome/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/post/22-10-15-oncobiome/</guid>
+      <guid>https://bioinfo-recetox.github.io/post/22-10-15-oncobiome/</guid>
       <description>&lt;p&gt;The 2022 Oncobiome&amp;rsquo;s GA meeting took place in Torino, IT.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://www.oncobiome.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oncobiome&lt;/a&gt; project had its 2022&amp;rsquo;s General Assembly
 meeting hosted by our colleagues in Torino, Dr Alessio Naccarati (IIGM) and
@@ -27,9 +27,9 @@ miRNA and metagenomics data.&lt;/p&gt;</description>
     
     <item>
       <title>Colorectal tumour mucosa microbiome is enriched in oral pathogens and defines three subtypes that correlate with markers of tumour progression</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2021-cancers/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2021-cancers/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,9 +42,9 @@ miRNA and metagenomics data.&lt;/p&gt;</description>
     
     <item>
       <title>ONCOBIOME: Gut OncoMicrobiome Signatures associated with cancer incidence, prognosis and prediction of treatment response</title>
-      <link>http://bioinfo.recetox.muni.cz/project/oncobiome/</link>
+      <link>https://bioinfo-recetox.github.io/project/oncobiome/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/oncobiome/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/oncobiome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: EU-H2020 (Grant agreement ID: 825410); Principal investigator for MUNI: Eva Budinska&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;(from the project&amp;rsquo;s &lt;a href=&#34;https://www.oncobiome.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official website&lt;/a&gt;)&lt;/p&gt;
@@ -65,9 +65,9 @@ miRNA and metagenomics data.&lt;/p&gt;</description>
     
     <item>
       <title>Colobiome: Tumour-adjacent microbiome and immune profile of tumour in the context of heterogeneity and aggressivness of colorectal cancer</title>
-      <link>http://bioinfo.recetox.muni.cz/project/azv2016_eb/</link>
+      <link>https://bioinfo-recetox.github.io/project/azv2016_eb/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/azv2016_eb/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/azv2016_eb/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>

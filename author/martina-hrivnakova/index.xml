@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martina Hrivňáková | IB2: Integrative Bioinformatics and Biostatistics</title>
-    <link>http://bioinfo.recetox.muni.cz/author/martina-hrivnakova/</link>
-      <atom:link href="http://bioinfo.recetox.muni.cz/author/martina-hrivnakova/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioinfo-recetox.github.io/author/martina-hrivnakova/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/author/martina-hrivnakova/index.xml" rel="self" type="application/rss+xml" />
     <description>Martina Hrivňáková</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioinfo.recetox.muni.cz/author/martina-hrivnakova/avatar_hu73d90b24438a9e78ae31c53cd0700fef_171828_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://bioinfo-recetox.github.io/author/martina-hrivnakova/avatar_hu73d90b24438a9e78ae31c53cd0700fef_171828_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Martina Hrivňáková</title>
-      <link>http://bioinfo.recetox.muni.cz/author/martina-hrivnakova/</link>
+      <link>https://bioinfo-recetox.github.io/author/martina-hrivnakova/</link>
     </image>
     
     <item>
       <title>Importance ot tumor sampling in transcriptomics-based risk stratification</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2022-esmo_gi/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2022-esmo_gi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of tumour morphology landscape on molecular signatures</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2022-eacr/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2022-eacr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colorectal tumour mucosa microbiome is enriched in oral pathogens and defines three subtypes that correlate with markers of tumour progression</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2021-cancers/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2021-cancers/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -45,9 +45,9 @@
     
     <item>
       <title>Consensus molecular subtypes of morphological regions on colorectal tumors</title>
-      <link>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</link>
+      <link>https://bioinfo-recetox.github.io/publication/2021-esmo_gi/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</guid>
+      <guid>https://bioinfo-recetox.github.io/publication/2021-esmo_gi/</guid>
       <description></description>
     </item>
     

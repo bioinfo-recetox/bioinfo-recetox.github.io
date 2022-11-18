@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cpath | IB2: Integrative Bioinformatics and Biostatistics</title>
-    <link>http://bioinfo.recetox.muni.cz/tag/cpath/</link>
-      <atom:link href="http://bioinfo.recetox.muni.cz/tag/cpath/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bioinfo-recetox.github.io/tag/cpath/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/tag/cpath/index.xml" rel="self" type="application/rss+xml" />
     <description>cpath</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>cpath</title>
-      <link>http://bioinfo.recetox.muni.cz/tag/cpath/</link>
+      <link>https://bioinfo-recetox.github.io/tag/cpath/</link>
     </image>
     
     <item>
       <title>Molecular portraits of major morphological components of colon tumors</title>
-      <link>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</link>
+      <link>https://bioinfo-recetox.github.io/project/gacr2019_vp/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</guid>
+      <guid>https://bioinfo-recetox.github.io/project/gacr2019_vp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
@@ -52,9 +52,9 @@ systems.&lt;/p&gt;
     
     <item>
       <title>Cytomine server is working!</title>
-      <link>http://bioinfo.recetox.muni.cz/post/21-06-10-cytomine/</link>
+      <link>https://bioinfo-recetox.github.io/post/21-06-10-cytomine/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://bioinfo.recetox.muni.cz/post/21-06-10-cytomine/</guid>
+      <guid>https://bioinfo-recetox.github.io/post/21-06-10-cytomine/</guid>
       <description>&lt;p&gt;The local &lt;a href=&#34;https://cytomine.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cytomine&lt;/a&gt; server is up and running!&lt;/p&gt;
 &lt;p&gt;Finally! We have our own server for hosting the whole slide images: visit
 &lt;a href=&#34;https://cpath.recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CPath&lt;/a&gt; to have a look.&lt;/p&gt;
