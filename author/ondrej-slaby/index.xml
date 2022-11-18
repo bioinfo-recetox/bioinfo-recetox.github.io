@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ondrej Slabý | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/author/ondrej-slaby/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/author/ondrej-slaby/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ondrej Slabý</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>Ondrej Slabý</title>
+      <link>http://bioinfo.recetox.muni.cz/author/ondrej-slaby/</link>
+    </image>
+    
+    <item>
+      <title>Importance ot tumor sampling in transcriptomics-based risk stratification</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of tumour morphology landscape on molecular signatures</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus molecular subtypes of morphological regions on colorectal tumors</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/post/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>http://bioinfo.recetox.muni.cz/post/</link>
+    </image>
+    
+    <item>
+      <title>Oncobiome General Assembly meeting</title>
+      <link>http://bioinfo.recetox.muni.cz/post/22-10-15-oncobiome/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/post/22-10-15-oncobiome/</guid>
+      <description>&lt;p&gt;The 2022 Oncobiome&amp;rsquo;s GA meeting took place in Torino, IT.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.oncobiome.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oncobiome&lt;/a&gt; project had its 2022&amp;rsquo;s General Assembly
+meeting hosted by our colleagues in Torino, Dr Alessio Naccarati (IIGM) and
+Dr Francesca Cordero (University of Turin). At the meeting, Drs. Budinská and
+Popovici presented our group&amp;rsquo;s recent results on building predictors based on
+miRNA and metagenomics data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cytomine server is working!</title>
+      <link>http://bioinfo.recetox.muni.cz/post/21-06-10-cytomine/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/post/21-06-10-cytomine/</guid>
+      <description>&lt;p&gt;The local &lt;a href=&#34;https://cytomine.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cytomine&lt;/a&gt; server is up and running!&lt;/p&gt;
+&lt;p&gt;Finally! We have our own server for hosting the whole slide images: visit
+&lt;a href=&#34;https://cpath.recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CPath&lt;/a&gt; to have a look.&lt;/p&gt;
+&lt;p&gt;Our ever-growing collection of pathology images has a new home. The
+&lt;a href=&#34;https://cytomine.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cytomine&lt;/a&gt; server has been deployed locally and it
+already hosts more than 1,000 slides. It enables us a faster and more
+convenint collaboration with colleagues from Pathology departments.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

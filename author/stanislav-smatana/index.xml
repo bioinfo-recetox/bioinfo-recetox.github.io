@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanislav Smatana | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/author/stanislav-smatana/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/author/stanislav-smatana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stanislav Smatana</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>Stanislav Smatana</title>
+      <link>http://bioinfo.recetox.muni.cz/author/stanislav-smatana/</link>
+    </image>
+    
+    <item>
+      <title>Colorectal tumour mucosa microbiome is enriched in oral pathogens and defines three subtypes that correlate with markers of tumour progression</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

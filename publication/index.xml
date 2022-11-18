@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent publications | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/publication/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent publications</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/</link>
+    </image>
+    
+    <item>
+      <title>Using empirical biological knowledge to infer regulatory networks from multi-omics data</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-bmc_bioinformatics/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-bmc_bioinformatics/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Importance ot tumor sampling in transcriptomics-based risk stratification</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of tumour morphology landscape on molecular signatures</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colorectal tumour mucosa microbiome is enriched in oral pathogens and defines three subtypes that correlate with markers of tumour progression</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2021-cancers/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consensus molecular subtypes of morphological regions on colorectal tumors</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An explorative analysis of ABCG2/TOP-1 mRNA expression as a biomarker test for FOLFIRI treatment in stage III colon cancer patients: results from retrospective analyses of the PETACC-3 trial</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2020-cancers/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2020-cancers/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

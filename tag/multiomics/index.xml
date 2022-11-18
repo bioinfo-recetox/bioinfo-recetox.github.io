@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multiomics | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/tag/multiomics/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/tag/multiomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>multiomics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>multiomics</title>
+      <link>http://bioinfo.recetox.muni.cz/tag/multiomics/</link>
+    </image>
+    
+    <item>
+      <title>Using empirical biological knowledge to infer regulatory networks from multi-omics data</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-bmc_bioinformatics/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-bmc_bioinformatics/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ONCOBIOME: Gut OncoMicrobiome Signatures associated with cancer incidence, prognosis and prediction of treatment response</title>
+      <link>http://bioinfo.recetox.muni.cz/project/oncobiome/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/project/oncobiome/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding: EU-H2020 (Grant agreement ID: 825410); Principal investigator for MUNI: Eva Budinska&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;(from the project&amp;rsquo;s &lt;a href=&#34;https://www.oncobiome.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official website&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In view of the world-wide epidemic of cancer, which is linked to environmental and life-style factors, there is an unmet medical need in breakthrough concepts to understand the causes of neoplasia. One possible factor contributing to oncogenesis and tumor progression that has been neglected is the microbiota.&lt;/p&gt;
+&lt;p&gt;Indeed, the mammalian phenotype is largely driven by the combination of host and microbial genes. Beyond its role in regulating many fundamental functions of health, the intestinal &lt;em&gt;metagenome&lt;/em&gt; appears to be dramatically implicated in cancer initiation, progression as well as responses to therapies, even for cancers developing in sterile tissues outside of the gastrointestinal tract.&lt;/p&gt;
+&lt;p&gt;Studies on the gut microbiome have so far been organized on a small and local scale, and there is an urgent need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fully identify and functionally characterize cancer-relevant microbial species by means of robust and standardized methods to validate cancer-associated gut microbiome fingerprints&lt;/li&gt;
+&lt;li&gt;Assess their clinical relevance for patient prognosis&lt;/li&gt;
+&lt;li&gt;Develop diagnostic tools that could become part of the oncological arsenal for the prevention, prediction and personalization of cancer therapy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project&lt;/h2&gt;
+&lt;p&gt;Accumulating evidence underscores the role of the gut microbiome in health and disease, including cancer. The scope of the EU-funded ONCOBIOME project is to identify and functionally characterise the commensal bacteria of high clinical relevance. Using cohorts of more than 3 000 patients with cancer across 10 countries, project partners will identify microbiome signatures related to cancer occurrence, prognosis and response to therapy. They will also investigate the mechanistic interplay with the host metabolism, immunity and oncogenesis. Apart from fundamental knowledge, project results will lead to novel diagnostic and prognostic tests for cancer, as well as tailor-made pre- and pro-biotics.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;Beyond the role the intestinal metagenome plays in regulating multiple physBeyond its role in regulating multiple physiological functions that impact health, the intestinal metagenome is implicated in cancer initiation, progression and responses to therapies, even for extraintestinal neoplasia. Hence, there is an urgent need to fully identify and functionally characterize minimalist commensal ecosystems relevant to cancer, with reliable and robust methods, to validate cancer-associated gut microbiome fingerprints of high clinical relevance, and to develop diagnosis tools that will become part of the oncological arsenal for the optimization and personalization of therapy. Based on retro-and pro-spective studies, with large discovery and validation cohorts enrolling &amp;gt;9,000 cancer patients across 10 countries, ancillary to ongoing innovative clinical trials or FDA/EMA approvals across 4 frequent cancer types, ONCOBIOME will pursue the following aims: 1/ identify and validate core or cancer-specific Gut OncoMicrobiome Signatures (GOMS) associated with cancer occurrence, prognosis, response to, or progression on, therapy (polychemotherapy, immune checkpoint inhibitors, dendritic cell vaccines) or adverse effects, 2/ decipher the functional relevance of these cancer-associated gut commensal ecosystems in the regulation of host metabolism, immunity and oncogenesis, 3/  integrate these GOMS with other oncology hallmarks (clinics, genomics, immunomics, metabolomics)  4/ design optimal companion tests, based on those integrated signatures to predict cancer occurrence and progression. With high carat interdisciplinary experts, ONCOBIOME expects to validate cancer or therapy-specific Gut OncoMicrobiome Signatures (GOMS) across breast, colorectal, melanoma and lung cancers adjusting for covariates, to unravel the mode of action of these GOMS in innovative platforms, thus lending support to the design of cancer preventive campaigns using well characterized pre-and pro-biotics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinical implications of intra-tumour heterogeneity in colon cancer</title>
+      <link>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding: AZV (NV19-03-00298); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Differences that exist both between and within tumours of the same cancer type are a major
+hurdle towards proper patient selection for a given treatment and for developing more targeted
+therapies. Depending on the perspective under which these differences are investigated,
+different categorisation paradigms have emerged. The systematisation of clinical and
+histopathological parameters led to the definition of the current TNM staging system which
+presently constitutes the gold standard for diagnosis and prognosis. At a different scale, the
+intra-tumour heterogeneity (ITH) has been a long-time recognised phenomenon, but its
+tremendous impact on diagnosis and treatment outcome only recently started to be
+systematically investigated. Experiments such as single-cell or surgical tumour multi-sampling
+sequencing portrayed a highly heterogeneous picture of the various cancers with trunk and
+branch driver mutations distributed non-uniformly in time and space. In colon cancer, while
+KRAS, NRAS and BRAF appear to be trunk driver mutations, TP53 and PIK3CA seem to be
+branch driver mutations.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project&lt;/h2&gt;
+&lt;p&gt;The overarching objective of this project is to explore and characterise the impact of ITH on
+the clinical decisions regarding prognosis (for stage II patients) and personalised treatment (for
+metastatic patients). Such analyses require a multi-region-based tumour sampling which,
+inherently, increases the costs of the experiments and may introduce - if not controlled -
+additional noise in the data due to the particular choices made in selecting the sampling sites. In
+order to control for these factors we propose to select the sampling regions based on their
+morphological characteristics, thus a pathologist could relatively easily identify them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

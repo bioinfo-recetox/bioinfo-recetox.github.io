@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Persico | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/author/maria-persico/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/author/maria-persico/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Persico</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/author/maria-persico/avatar_hude39787fc852d884059476ef12af181b_15565_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Maria Persico</title>
+      <link>http://bioinfo.recetox.muni.cz/author/maria-persico/</link>
+    </image>
+    
+  </channel>
+</rss>

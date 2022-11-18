@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ith | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>http://bioinfo.recetox.muni.cz/tag/ith/</link>
+      <atom:link href="http://bioinfo.recetox.muni.cz/tag/ith/index.xml" rel="self" type="application/rss+xml" />
+    <description>ith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://bioinfo.recetox.muni.cz/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>ith</title>
+      <link>http://bioinfo.recetox.muni.cz/tag/ith/</link>
+    </image>
+    
+    <item>
+      <title>Importance ot tumor sampling in transcriptomics-based risk stratification</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-esmo_gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of tumour morphology landscape on molecular signatures</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2022-eacr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular portraits of major morphological components of colon tumors</title>
+      <link>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/project/gacr2019_vp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Solid tumor manifest various degrees of heterogeneity and several taxonomies
+have been proposed for trying to group the tumors into more homogeneous
+and comprehenisible categories. Colorectal cancer (CRC) is not different. In
+fact, due to its usually slower progression and somehow later detection,
+it acquires more mutations and manifests higher intra-tumor morphological
+diversity then some other cancers.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project&lt;/h2&gt;
+&lt;p&gt;In this project, we investigate the CRC heterogeneity
+starting with its morphological features. Using the morphology as an anchor for
+tumor sampling, we explore the diversity of the molecular programs that drive
+the tumor evolution. We have obtained about 200 expression profiles from over
+100 different tumors, representing six different morphotypes (complex
+tubular, desmoplastic, mucinous, papillary, serrated and solid/trabecular). In
+addition, we have also profiles tumor-adjacent normal tisse and tumor-associated
+stroma for building reference profiles.&lt;/p&gt;
+&lt;h2 id=&#34;main-results&#34;&gt;Main results&lt;/h2&gt;
+&lt;p&gt;The morphology-guided tumor sampling allows for a finer resolution than whole-tumor
+profiling. On the other hand, the single-cell assays are able to extract very specific
+profiles from tiny tumor regions however at the cost of losing much of the phenotypical
+context. The bioinformatics analyses revealed a high degree of variability in gene
+expression between regions. More importantly, even within the same tumor (same section),
+we were able to identify differences in major pathways (e.g. MAPK, WNT, TGFb). Since
+these pathways are fundamental in tumor classification (e.g. by consensus molecular subtypes,
+or by prognostic signatures), it comes with no suprise that these classifiers vary
+also across regions, even within the tumor. These results call for a deeper investigation
+of the impact of intra-tumoral heterogeneity on the molecular-/expression-based decision
+systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consensus molecular subtypes of morphological regions on colorectal tumors</title>
+      <link>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/publication/2021-esmo_gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical implications of intra-tumour heterogeneity in colon cancer</title>
+      <link>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/project/azv2019_vp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding: AZV (NV19-03-00298); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Differences that exist both between and within tumours of the same cancer type are a major
+hurdle towards proper patient selection for a given treatment and for developing more targeted
+therapies. Depending on the perspective under which these differences are investigated,
+different categorisation paradigms have emerged. The systematisation of clinical and
+histopathological parameters led to the definition of the current TNM staging system which
+presently constitutes the gold standard for diagnosis and prognosis. At a different scale, the
+intra-tumour heterogeneity (ITH) has been a long-time recognised phenomenon, but its
+tremendous impact on diagnosis and treatment outcome only recently started to be
+systematically investigated. Experiments such as single-cell or surgical tumour multi-sampling
+sequencing portrayed a highly heterogeneous picture of the various cancers with trunk and
+branch driver mutations distributed non-uniformly in time and space. In colon cancer, while
+KRAS, NRAS and BRAF appear to be trunk driver mutations, TP53 and PIK3CA seem to be
+branch driver mutations.&lt;/p&gt;
+&lt;h2 id=&#34;project&#34;&gt;Project&lt;/h2&gt;
+&lt;p&gt;The overarching objective of this project is to explore and characterise the impact of ITH on
+the clinical decisions regarding prognosis (for stage II patients) and personalised treatment (for
+metastatic patients). Such analyses require a multi-region-based tumour sampling which,
+inherently, increases the costs of the experiments and may introduce - if not controlled -
+additional noise in the data due to the particular choices made in selecting the sampling sites. In
+order to control for these factors we propose to select the sampling regions based on their
+morphological characteristics, thus a pathologist could relatively easily identify them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Colobiome: Tumour-adjacent microbiome and immune profile of tumour in the context of heterogeneity and aggressivness of colorectal cancer</title>
+      <link>http://bioinfo.recetox.muni.cz/project/azv2016_eb/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://bioinfo.recetox.muni.cz/project/azv2016_eb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

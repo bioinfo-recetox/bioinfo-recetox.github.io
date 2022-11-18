@@ -1,0 +1,18 @@
+{
+  "name": "IB2: Integrative Bioinformatics and Biostatistics",
+  "short_name": "IB2: Integrative Bioinformatics and Biostatistics",
+  "lang": "en-us",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
+  "icons": [{
+    "src": "/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
