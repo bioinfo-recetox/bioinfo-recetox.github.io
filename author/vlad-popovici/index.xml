@@ -57,12 +57,27 @@ miRNA and metagenomics data.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Method development and software</title>
+      <link>https://bioinfo-recetox.github.io/project/methods/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/project/methods/</guid>
+      <description>&lt;p&gt;We develop new methods and software tools to support us in our research. Here is a list of
+various tools, as they become available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Method for multimodal Bayesian data integration: &lt;a href=&#34;https://bioconductor.org/packages/devel/bioc/html/IntOMICS.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IntOMICS&lt;/a&gt;
+See also the &lt;a href=&#34;https://bioinfo-recetox.github.io/publication/2022-bmc_bioinformatics/&#34;&gt;paper&lt;/a&gt;. Author: &lt;a href=&#34;https://bioinfo-recetox.github.io/author/anna-pacinkova/&#34;&gt;Anna Pačinková&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Molecular portraits of major morphological components of colon tumors</title>
       <link>https://bioinfo-recetox.github.io/project/gacr2019_vp/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://bioinfo-recetox.github.io/project/gacr2019_vp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding: GACR (GA19-08646S); Principal investigator: Vlad Popovici&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Partners: &lt;a href=&#34;https://recetox.muni.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RECETOX&lt;/a&gt; - &lt;a href=&#34;https://www.mou.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MMCI&lt;/a&gt; - &lt;a href=&#34;https://www.ceitec.cz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CEITEC&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data available &lt;a href=&#34;https://bioinfo-recetox.github.io/downloads/&#34;&gt;here&lt;/a&gt; or &lt;a href=&#34;https://doi.org/10.5281/zenodo.7505364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;directly here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Solid tumor manifest various degrees of heterogeneity and several taxonomies
 have been proposed for trying to group the tumors into more homogeneous
