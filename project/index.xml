@@ -22,6 +22,7 @@ various tools, as they become available:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Method for multimodal Bayesian data integration: &lt;a href=&#34;https://bioconductor.org/packages/devel/bioc/html/IntOMICS.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IntOMICS&lt;/a&gt;
 See also the &lt;a href=&#34;https://bioinfo-recetox.github.io/publication/2022-bmc_bioinformatics/&#34;&gt;paper&lt;/a&gt;. Author: &lt;a href=&#34;https://bioinfo-recetox.github.io/author/anna-pacinkova/&#34;&gt;Anna Pačinková&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Topology-based pathway analysis for RNASeq data: &lt;a href=&#34;http://bioconductor.org/packages/3.3/bioc/html/ToPASeq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ToPASeq&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

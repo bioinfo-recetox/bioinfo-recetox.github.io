@@ -5,12 +5,23 @@
     <link>https://bioinfo-recetox.github.io/tag/crc/</link>
       <atom:link href="https://bioinfo-recetox.github.io/tag/crc/index.xml" rel="self" type="application/rss+xml" />
     <description>crc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>crc</title>
       <link>https://bioinfo-recetox.github.io/tag/crc/</link>
     </image>
+    
+    <item>
+      <title>QBI SABI 2023</title>
+      <link>https://bioinfo-recetox.github.io/post/23-03-27-qbi/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/post/23-03-27-qbi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.quantitativebioimaging.com/qbi2023/sabi2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Spatial Analysis for Biological Imaging workshop.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We present new results from the analysis of the spatial distribution of T-cells
+in colorectal cancer. These results were obtained in the framework of the
+AZV-funded &lt;a href=&#34;https://bioinfo-recetox.github.io/project/azv2019_vp/&#34;&gt;project&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Importance of tumor sampling in transcriptomics-based risk stratification</title>
