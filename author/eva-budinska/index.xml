@@ -5,12 +5,43 @@
     <link>https://bioinfo-recetox.github.io/author/eva-budinska/</link>
       <atom:link href="https://bioinfo-recetox.github.io/author/eva-budinska/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva Budinská</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioinfo-recetox.github.io/author/eva-budinska/avatar_hud8eaee7660ad0c038072b8055bd3a3d5_164745_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Eva Budinská</title>
       <link>https://bioinfo-recetox.github.io/author/eva-budinska/</link>
     </image>
+    
+    <item>
+      <title>Molecular portraits of colorectal cancer morphological regions</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-elife/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-elife/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Additional markers of response to anti-EGFR therapy in metastatic colon cancer: Morphological context matters</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-eacr_2/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-eacr_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of high risk patients in stage II pT3N0 microsatellite-stable colorectal cancer</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-eacr_1/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-eacr_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Importance of tumor sampling in transcriptomics-based risk stratification</title>

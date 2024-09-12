@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michaela Ručková | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>https://bioinfo-recetox.github.io/author/michaela-ruckova/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/author/michaela-ruckova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michaela Ručková</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>Michaela Ručková</title>
+      <link>https://bioinfo-recetox.github.io/author/michaela-ruckova/</link>
+    </image>
+    
+    <item>
+      <title>Molecular portraits of colorectal cancer morphological regions</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-elife/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-elife/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

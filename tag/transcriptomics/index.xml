@@ -5,12 +5,28 @@
     <link>https://bioinfo-recetox.github.io/tag/transcriptomics/</link>
       <atom:link href="https://bioinfo-recetox.github.io/tag/transcriptomics/index.xml" rel="self" type="application/rss+xml" />
     <description>transcriptomics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>transcriptomics</title>
       <link>https://bioinfo-recetox.github.io/tag/transcriptomics/</link>
     </image>
+    
+    <item>
+      <title>Additional markers of response to anti-EGFR therapy in metastatic colon cancer: Morphological context matters</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-eacr_2/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-eacr_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of high risk patients in stage II pT3N0 microsatellite-stable colorectal cancer</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-eacr_1/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-eacr_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Importance of tumor sampling in transcriptomics-based risk stratification</title>

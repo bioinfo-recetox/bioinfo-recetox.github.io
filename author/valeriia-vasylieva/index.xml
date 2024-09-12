@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valeriia Vasylieva | IB2: Integrative Bioinformatics and Biostatistics</title>
+    <link>https://bioinfo-recetox.github.io/author/valeriia-vasylieva/</link>
+      <atom:link href="https://bioinfo-recetox.github.io/author/valeriia-vasylieva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valeriia Vasylieva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
+      <title>Valeriia Vasylieva</title>
+      <link>https://bioinfo-recetox.github.io/author/valeriia-vasylieva/</link>
+    </image>
+    
+    <item>
+      <title>Additional markers of response to anti-EGFR therapy in metastatic colon cancer: Morphological context matters</title>
+      <link>https://bioinfo-recetox.github.io/publication/2023-eacr_2/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2023-eacr_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
