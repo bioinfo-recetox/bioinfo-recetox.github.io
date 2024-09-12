@@ -5,12 +5,27 @@
     <link>https://bioinfo-recetox.github.io/author/vlad-popovici/</link>
       <atom:link href="https://bioinfo-recetox.github.io/author/vlad-popovici/index.xml" rel="self" type="application/rss+xml" />
     <description>Vlad Popovici</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioinfo-recetox.github.io/author/vlad-popovici/avatar_hu83b78ed1466604b146396f5088cef503_42452_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Vlad Popovici</title>
       <link>https://bioinfo-recetox.github.io/author/vlad-popovici/</link>
     </image>
+    
+    <item>
+      <title>An invasion front gene expression signature for higher-risk patient selection in stage IIA MSS colon cancer</title>
+      <link>https://bioinfo-recetox.github.io/publication/2024-frontonc/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/publication/2024-frontonc/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
     
     <item>
       <title>Molecular portraits of colorectal cancer morphological regions</title>
@@ -25,6 +40,16 @@
 &lt;/div&gt;
  --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>New slide scanner</title>
+      <link>https://bioinfo-recetox.github.io/post/23-06-01-scanner/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/post/23-06-01-scanner/</guid>
+      <description>&lt;p&gt;Starting this month, we have a new scanner to support our histopathology
+image analysis projects. This is a 3D Histech &lt;a href=&#34;https://www.3dhistech.com/research/pannoramic-digital-slide-scanners/pannoramic-midi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scanner&lt;/a&gt; for small-to-medium throughput but producing high quality
+images both in brightfield and fluorescence modalities.&lt;/p&gt;</description>
     </item>
     
     <item>
