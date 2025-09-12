@@ -5,12 +5,28 @@
     <link>https://bioinfo-recetox.github.io/post/</link>
       <atom:link href="https://bioinfo-recetox.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bioinfo-recetox.github.io/media/icon_hub5cd333a9ad2ed2c4484e85fbbb63248_94796_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://bioinfo-recetox.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New colleague</title>
+      <link>https://bioinfo-recetox.github.io/post/25-06-01/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/post/25-06-01/</guid>
+      <description>&lt;p&gt;We are happy to welcome Dr. Vahid Anari, who joined our team as a postdoctoral researcher. His research will focus on the computational pathology and machine learning applications in histopathology image analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New doctor</title>
+      <link>https://bioinfo-recetox.github.io/post/25-04-15-barboraphd/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://bioinfo-recetox.github.io/post/25-04-15-barboraphd/</guid>
+      <description>&lt;p&gt;Congratulations to Barbora Zwinsová for successfully defending her PhD thesis on &amp;ldquo;The role of microbiome in heterogeneity of colorectal cancer&amp;rdquo;. We wish her all the best in her future career!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New slide scanner</title>
